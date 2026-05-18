@@ -74,10 +74,10 @@
     "question": "In the world of Pokémon, Shiny characters are ultra-rare Pokémon with a unique color swap; most notably the red-scaled Gyarados as seen in the image here. However, for players with this specific type of color blindness, the vibrant red scales appear as a muddy brownish-gray, making the rare find look more identical to the common blue one.",
     "image": "images/Red-Brown.png",
     "answers": [
-      "Tritanopia — blue-blind, missing blue (short-wavelength) cones",
-      "Achromatopsia (monochromacy) — no functioning cone cells at all, seeing only in shades of gray; Extremely rare and often accompanied by light sensitivity and reduced visual acuity.",
-      "Protanopia (a clinical term for color blindness that makes it difficult to perceive red)",
-      "Deuteranomaly — reduced green cone sensitivity; this is the most common type overall"
+      "Tritanopia",
+      "Achromatopsia",
+      "Protanopia",
+      "Deuteranomaly"
     ],
     "correct": 2,
     "points": 100,
