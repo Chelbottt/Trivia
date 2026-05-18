@@ -1,18 +1,4 @@
-[
-  {
-    "category": "Disabled Musicians",
-    "question": "The pop star behind \"…Baby One More Time\" has had her mental health journey play out in the public eye, particularly through a highly publicized conservatorship that led to global conversations about autonomy, disability, and power.",
-    "image": null,
-    "answers": [
-      "Amanda Bynes",
-      "Lady Gaga",
-      "Britney Spears",
-      "Taylor Swift"
-    ],
-    "correct": 2,
-    "points": 100,
-    "time": 30
-  },
+[ 
   {
     "category": "Disabled Musicians",
     "question": "Blind since shortly after birth, this legendary singer and pianist became one of Motown's biggest stars, recording classics like \"Superstition\" and \"Sir Duke\" while redefining what accessibility in music could look like.",
@@ -38,20 +24,6 @@
       "Handel"
     ],
     "correct": 1,
-    "points": 100,
-    "time": 30
-  },
-  {
-    "category": "Disabled Musicians",
-    "question": "Blinded as a child, this musician blended jazz, blues, and gospel into a groundbreaking sound, earning the nickname \"The Genius\" and recording hits like \"Georgia on My Mind.\"",
-    "image": null,
-    "answers": [
-      "Stevie Wonder",
-      "Chuck Berry",
-      "Ray Charles",
-      "Thomas \"Blind\" Wiggins"
-    ],
-    "correct": 2,
     "points": 100,
     "time": 30
   },
@@ -196,20 +168,6 @@
     "time": 30
   },
   {
-    "category": "Blackboard Products",
-    "question": "When accessibility is everyone's responsibility, learning together matters. This group exists so anyone can get involved, grow their knowledge, and help move accessibility forward.",
-    "image": null,
-    "answers": [
-      "Accessibility Workstream",
-      "Accessibility Team",
-      "Bruce's Team",
-      "Ally Team"
-    ],
-    "correct": 0,
-    "points": 100,
-    "time": 30
-  },
-  {
     "category": "Everyday Items",
     "question": "This invention brightens your smile and makes your hygienist happy!",
     "image": null,
@@ -220,34 +178,6 @@
       "Mouthwash"
     ],
     "correct": 1,
-    "points": 100,
-    "time": 30
-  },
-  {
-    "category": "Everyday Items",
-    "question": "This brand made everyone's cooking experience easier by creating accessibility-friendly kitchen accessories.",
-    "image": null,
-    "answers": [
-      "OXO",
-      "Crate and Barrel",
-      "Tupperware",
-      "Rubbermaid"
-    ],
-    "correct": 0,
-    "points": 100,
-    "time": 30
-  },
-  {
-    "category": "Everyday Items",
-    "question": "This tool is hygienically sensible, and makes it easier for everyone to finish a common cleaning task.",
-    "image": null,
-    "answers": [
-      "Automatic Hand Dryer",
-      "Roomba",
-      "Swiffer Mop",
-      "Hand Sanitizer"
-    ],
-    "correct": 0,
     "points": 100,
     "time": 30
   },
@@ -279,20 +209,7 @@
     "points": 100,
     "time": 30
   },
-  {
-    "category": "Mobile",
-    "question": "What function do these symbols represent on a mobile device?",
-    "image": "images/magnifying-glass.png",
-    "answers": [
-      "Camera Zoom Control",
-      "Search Function",
-      "Map Zoom",
-      "Magnification"
-    ],
-    "correct": 3,
-    "points": 100,
-    "time": 30
-  },
+
   {
     "category": "Mobile",
     "question": "Which assistive feature do these symbols represent on a mobile device?",
@@ -304,20 +221,6 @@
       "Close up"
     ],
     "correct": 2,
-    "points": 100,
-    "time": 30
-  },
-  {
-    "category": "Mobile",
-    "question": "Which feature do these symbols represent on a mobile device?",
-    "image": "images/cc.png",
-    "answers": [
-      "Text Messaging",
-      "Speech-to-Text Input",
-      "Commenting or Discussion Tool",
-      "Captions"
-    ],
-    "correct": 3,
     "points": 100,
     "time": 30
   },
