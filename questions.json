@@ -1,7 +1,7 @@
 [ 
   {
     "category": "Disabled Musicians",
-    "question": "Blind since shortly after birth, this legendary singer and pianist became one of Motown's biggest stars, recording classics like \"Superstition\" and \"Sir Duke\" while redefining what accessibility in music could look like.",
+    "question": "Blind since shortly after birth, this singer and pianist became one of Motown's biggest stars, recording classics like \"Superstition\" and \"Sir Duke\".",
     "image": null,
     "answers": [
       "Muddy Waters",
@@ -15,7 +15,7 @@
   },
   {
     "category": "Disabled Musicians",
-    "question": "This German composer began losing his hearing in early adulthood and composed much of his later work while deaf, including the Ninth Symphony, which helped redefine Western classical music.",
+    "question": "This German composer began losing his hearing in early adulthood and composed much of his later work while deaf, including the Ninth Symphony.",
     "image": null,
     "answers": [
       "Mozart",
@@ -29,7 +29,7 @@
   },
   {
     "category": "Disabled Musicians",
-    "question": "This pop superstar has spoken openly about living with fibromyalgia and has incorporated disability imagery into her work, including the wheelchair-centered \"Paparazzi\" music video, and is known for boundary-pushing fashion moments like wearing a dress made of raw meat",
+    "question": "This pop superstar has spoken openly about living with fibromyalgia and has incorporated disability imagery into her work, including the wheelchair-centered \"Paparazzi\" music video.",
     "image": null,
     "answers": [
       "Billie Eilish",
@@ -43,7 +43,7 @@
   },
   {
     "category": "Pokémon",
-    "question": "In the world of Pokémon, Shiny characters are ultra-rare Pokémon with a unique color swap; most notably the red-scaled Gyarados as seen in the image here. However, for players with this specific type of color blindness, the vibrant red scales appear as a muddy brownish-gray, making the rare find look more identical to the common blue one.",
+    "question": "In Pokémon, Shiny Pokémon are rare color variants, like the red Gyarados shown here. But for people with this type of color blindness, its red scales appear brownish-gray, making it look much closer to the common blue version.",
     "image": "images/Red-Brown.png",
     "answers": [
       "Tritanopia",
@@ -71,7 +71,7 @@
   },
   {
     "category": "Pokémon",
-    "question": "While often used by experienced players to skip through dialogue, this adjustable game setting is a vital accessibility tool that reduces 'Cognitive Load' for players with Dyslexia or other processing disorders.",
+    "question": "Often used to skip through dialogue, this adjustable game setting also helps reduce cognitive load for players with dyslexia and other processing disorders.",
     "image": "images/cognitive-load.png",
     "answers": [
       "Dialogue Audio Speed",
@@ -85,7 +85,7 @@
   },
   {
     "category": "Art",
-    "question": "This painter developed severe cataracts in both eyes, rendering him legally blind. This caused him to see colors in blurred yellows, brown, and reds, heavily influencing his abstract work \"Water Lilies\"",
+    "question": "This painter’s severe cataracts caused blurred yellow, brown, and red vision that influenced his “Water Lilies” series.",
     "image": null,
     "answers": [
       "Pablo Picasso",
@@ -113,7 +113,7 @@
   },
   {
     "category": "Art",
-    "question": "This famous painting is described by the following alternative text (courtesy of Blackboard Ally): Portrait of a woman with a subtle smile, wearing a Renaissance-style dress and sitting with her hands folded against a misty landscape background",
+    "question": "This painting is described by the following alternative text: Portrait of a woman with a subtle smile, wearing a Renaissance-style dress and sitting with her hands folded against a misty landscape background.",
     "image": null,
     "answers": [
       "Whistler's Mother",
@@ -197,7 +197,7 @@
   },
   {
     "category": "Everyday Items",
-    "question": "While finishing his dissertation at the University of Delaware, Wayne Westerman developed a severe case of carpal tunnel syndrome, thereby inhibiting his ability to use the computer effectively. So he and some colleagues created this commonly used piece of technology.",
+    "question": "After developing severe carpal tunnel syndrome at the University of Delaware, inhibiting his ability to use the computer effectively, Wayne Westerman helped create this widely used technology.",
     "image": null,
     "answers": [
       "Ergonomic keyboard",
