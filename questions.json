@@ -43,7 +43,7 @@
   },
   {
     "category": "Pokémon",
-    "question": "In Pokémon, Shiny Pokémon are rare color variants, like the red Gyarados shown on the left. \nFor people with this type of color blindness, its red scales appear brownish-gray, making it look much closer to the common blue version.",
+    "question": "In Pokémon, Shiny Pokémon are rare color variants, like the red Gyarados shown on the left. For people with this type of color blindness, its red scales appear brownish-gray, making it look much closer to the common blue version.",
     "image": "images/Red-Brown.png",
     "answers": [
       "Tritanopia",
@@ -172,7 +172,7 @@
   },
   {
     "category": "Bb Products",
-    "question": "*\"I have struggled with every other screen capturing program I have tried. Using [this Blackboard product] was the first time I could start and stop a recording without help. It was liberating for me … job well done on this one!\"*\n–Visually impaired faculty member who uses JAWs to teach fully online.",
+    "question": "\"I have struggled with every other screen capturing program I have tried. Using [this Blackboard product] was the first time I could start and stop a recording without help. It was liberating for me … job well done on this one!\" –Visually impaired faculty member who uses JAWs to teach fully online.",
     "image": null,
     "answers": [
       "Video Studio",
@@ -186,7 +186,7 @@
   },
   {
     "category": "Bb Products",
-    "question": "*When accessibility is everyone’s responsibility, learning together matters.*\nThis group at Blackboard exists so anyone can get involved, grow their knowledge, and help move accessibility forward.",
+    "question": "When accessibility is everyone’s responsibility, learning together matters. This group at Blackboard exists so anyone can get involved, grow their knowledge, and help move accessibility forward.",
     "image": null,
     "answers": [
       "Accessibility Workstream",
