@@ -267,7 +267,7 @@
   },
   {
     "category": "Mobile",
-    "question": "What does this icon symbolize on a mobile device?",
+    "question": "What feature do these icons symbolize on a mobile device?",
     "image": "images/eyeball.png",
     "answers": [
       "Face Recognition / Face ID Setup",
