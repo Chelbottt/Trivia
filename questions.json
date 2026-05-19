@@ -127,7 +127,7 @@
   },
   {
     "category": "Art",
-    "question": "This painter’s severe cataracts caused blurred yellow, brown, and red vision that influenced his “Water Lilies” series.",
+    "question": "This painter’s severe cataracts caused blurred yellow, brown, and red vision that influenced their “Water Lilies” series.",
     "image": "images/water-lilies1.jpg",
     "answers": [
       "Pablo Picasso",
@@ -211,7 +211,7 @@
   },
   {
     "category": "Everyday Items",
-    "question": "This invention brightens your smile and makes your hygienist happy!",
+    "question": "This invention, which empowers individuals with mobility limitations, brightens your smile and makes your hygienist happy!",
     "image": null,
     "answers": [
       "Saliva ejector (vacuum)",
@@ -239,7 +239,7 @@
   },
   {
     "category": "Everyday Items",
-    "question": "After developing severe carpal tunnel syndrome at the University of Delaware, inhibiting his ability to use the computer effectively, Wayne Westerman helped create this widely used technology.",
+    "question": "After developing severe carpal tunnel syndrome while pursuing his PhD, Wayne Westerman helped create this widely used technology. Its use helped restore his ability to use a computer effectively and continue his studies.",
     "image": null,
     "answers": [
       "Ergonomic keyboard",
