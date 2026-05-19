@@ -1,0 +1,296 @@
+[
+  {
+    "category": "Test Questions",
+    "question": "What year is it?",
+    "image": null,
+    "answers": [
+      "2022",
+      "2901",
+      "1821",
+      "2026"
+    ],
+    "correct": 3,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Test Questions",
+    "question": "What is the name of this famous trio?",
+    "image": "images/trio.jpg",
+    "answers": [
+      "Amy, Chelsea, and Katie",
+      "The Three Stooges",
+      "Destiny's Child",
+      "The Three Musketeers"
+    ],
+    "correct": 0,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Test Questions",
+    "question": "Without looking at your hands, how many fingers do you have? (No cheating. Don't look at your hands.)",
+    "image": null,
+    "answers": [
+      "12",
+      "4",
+      "10",
+      "32"
+    ],
+    "correct": 2,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Disabled Musicians",
+    "question": "Blind since shortly after birth, this singer and pianist became one of Motown's biggest stars, recording classics like \"Superstition\" and \"Sir Duke\".",
+    "image": null,
+    "answers": [
+      "Stevie Wonder",
+      "Muddy Waters",
+      "Blind Lemon Jefferson",
+      "Ray Charles"
+    ],
+    "correct": 0,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Disabled Musicians",
+    "question": "This German composer began losing his hearing in early adulthood and composed much of their later work while deaf, including the Ninth Symphony.",
+    "image": null,
+    "answers": [
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Handel"
+    ],
+    "correct": 1,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Disabled Musicians",
+    "question": "This pop superstar has spoken openly about living with fibromyalgia and has incorporated disability imagery into their work, including the wheelchair-centered \"Paparazzi\" music video.",
+    "image": null,
+    "answers": [
+      "Billie Eilish",
+      "Madonna",
+      "Lady Gaga",
+      "Kylie Minogue"
+    ],
+    "correct": 2,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Pokémon",
+    "question": "In Pokémon, Shiny Pokémon are rare color variants, like the red Gyarados shown on the left. But for people with this type of color blindness, its red scales appear brownish-gray, making it look much closer to the common blue version.",
+    "image": "images/Red-Brown.png",
+    "answers": [
+      "Tritanopia",
+      "Achromatopsia",
+      "Protanopia",
+      "Deuteranomaly"
+    ],
+    "correct": 2,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Pokémon",
+    "question": "Nintendo Switch Pokémon games allow for \"Single-Handed Mode.\" Name a situational limitation where someone without a permanent impairment benefits from this.",
+    "image": "images/single-handed.png",
+    "answers": [
+      "A player trying to increase the difficulty of the game's combat",
+      "Playing the game while wearing a virtual reality (VR) headset",
+      "A user trying to conserve their controller's battery life",
+      "A commuter holding onto a subway rail with one hand while playing"
+    ],
+    "correct": 3,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Pokémon",
+    "question": "Often used to skip through dialogue, this adjustable game setting also helps reduce cognitive load for players with dyslexia and other processing disorders.",
+    "image": "images/cognitive-load.png",
+    "answers": [
+      "Dialogue Audio Speed",
+      "Text Speed",
+      "Font Scale",
+      "Closed Caption Toggle"
+    ],
+    "correct": 1,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Art",
+    "question": "This painter’s severe cataracts caused blurred yellow, brown, and red vision that influenced his “Water Lilies” series.",
+    "image": "images/water-lilies1.jpg",
+    "answers": [
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Claude Monet",
+      "Vincent van Gogh"
+    ],
+    "correct": 2,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Art",
+    "question": "This famous Mexican painter used art to explore their experience with chronic pain and disability following a streetcar accident.",
+    "image": null,
+    "answers": [
+      "José Clemente Orozco",
+      "David Alfaro Siqueiros",
+      "Diego Rivera",
+      "Frida Kahlo"
+    ],
+    "correct": 3,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Art",
+    "question": "This painting is described by the following alternative text: Portrait of a woman with a subtle smile, wearing a Renaissance-style dress and sitting with her hands folded against a misty landscape background.",
+    "image": null,
+    "answers": [
+      "Whistler's Mother",
+      "Mona Lisa",
+      "Girl with a Pearl Earring",
+      "American Gothic"
+    ],
+    "correct": 1,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Blackboard Products",
+    "question": "This Blackboard product gives content an accessibility score and step-by-step guidance to improve items like color contrast, headings, and alternative text.",
+    "image": null,
+    "answers": [
+      "Ally",
+      "Blackboard LMS",
+      "Yuja",
+      "Outcomes"
+    ],
+    "correct": 0,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Blackboard Products",
+    "question": "In Blackboard, it is more efficient for screen reader users to navigate by these, rather than using the tab key.",
+    "image": null,
+    "answers": [
+      "Arrow keys",
+      "Buttons",
+      "Headings or regions",
+      "A mouse"
+    ],
+    "correct": 2,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Blackboard Products",
+    "question": "\"I have struggled with every other screen capturing program I have tried. Using [this Blackboard product] was the first time I could start and stop a recording without help. It was liberating for me … job well done on this one!\" –Visually impaired faculty member who uses JAWs to teach fully online.",
+    "image": null,
+    "answers": [
+      "Video Studio",
+      "Ally",
+      "AVA",
+      "Illuminate"
+    ],
+    "correct": 0,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Everyday Items",
+    "question": "This invention brightens your smile and makes your hygienist happy!",
+    "image": null,
+    "answers": [
+      "Saliva ejector (vacuum)",
+      "Mouthwash",
+      "Single-use flossers",
+      "Electric toothbrush"
+    ],
+    "correct": 3,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Everyday Items",
+    "question": "Making it easier for people to stay hydrated, this product was originally designed with accessibility in mind.",
+    "image": null,
+    "answers": [
+      "Quarter-turn valves",
+      "Bendy Straws",
+      "Sippy cups",
+      "Shot glasses"
+    ],
+    "correct": 1,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Everyday Items",
+    "question": "After developing severe carpal tunnel syndrome at the University of Delaware, inhibiting his ability to use the computer effectively, Wayne Westerman helped create this widely used technology.",
+    "image": null,
+    "answers": [
+      "Ergonomic keyboard",
+      "Touch screen",
+      "Voice to text software",
+      "Computer Mouse"
+    ],
+    "correct": 1,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Mobile",
+    "question": "Which assistive feature do these symbols represent on a mobile device?",
+    "image": "images/ear-icons.png",
+    "answers": [
+      "Hearing assist",
+      "Voice Command Activation",
+      "Bluetooth Device Pairing Mode",
+      "Close up"
+    ],
+    "correct": 0,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Mobile",
+    "question": "Which audio feature do these icons represent on a mobile device?",
+    "image": "images/audio.png",
+    "answers": [
+      "Voiceover/TalkBack (screenreaders)",
+      "User Profile or Personal Settings",
+      "Text Messages",
+      "Audio Playback Controls"
+    ],
+    "correct": 0,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Mobile",
+    "question": "What feature do these icons symbolize on a mobile device?",
+    "image": "images/eyeball.png",
+    "answers": [
+      "Face Recognition / Face ID Setup",
+      "Photo Editing (Sharpen/Enhance Image)",
+      "Camera Focus Mode",
+      "Eye Tracking"
+    ],
+    "correct": 3,
+    "points": 100,
+    "time": 30
+  }
+]
