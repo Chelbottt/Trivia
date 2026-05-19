@@ -70,20 +70,7 @@
     "points": 100,
     "time": 30
   },
-  {
-    "category": "Pokémon",
-    "question": "Nintendo Switch Pokémon games allow for \"Single-Handed Mode.\" Name a situational limitation where someone without a permanent impairment benefits from this.",
-    "image": "images/single-handed.png",
-    "answers": [
-      "A player trying to increase the difficulty of the game's combat",
-      "Playing the game while wearing a virtual reality (VR) headset",
-      "A user trying to conserve their controller's battery life",
-      "A commuter holding onto a subway rail with one hand while playing"
-    ],
-    "correct": 3,
-    "points": 100,
-    "time": 30
-  },
+
   {
     "category": "Pokémon",
     "question": "Often used to skip through dialogue, this adjustable game setting also helps reduce cognitive load for players with dyslexia and other processing disorders.",
