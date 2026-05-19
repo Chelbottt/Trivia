@@ -196,6 +196,20 @@
     "points": 100,
     "time": 30
   },
+   {
+    "category": "Bb Products",
+    "question": "When accessibility is everyone’s responsibility, learning together matters. This group at Blackboard exists so anyone can get involved, grow their knowledge, and help move accessibility forward.",
+    "image": null,
+    "answers": [
+      "Accessibility Workstream",
+      "Accessibility Team",
+      "Ally Team",
+      "Bruce’s Team"
+    ],
+    "correct": 0,
+    "points": 100,
+    "time": 30
+  },
   {
     "category": "Everyday Items",
     "question": "This invention, which empowers individuals with mobility limitations, brightens your smile and makes your hygienist happy!",
