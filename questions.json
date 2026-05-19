@@ -43,7 +43,7 @@
   },
   {
     "category": "Pokémon",
-    "question": "In Pokémon, Shiny Pokémon are rare color variants, like the red Gyarados shown on the left. But for people with this type of color blindness, its red scales appear brownish-gray, making it look much closer to the common blue version.",
+    "question": "In Pokémon, Shiny Pokémon are rare color variants, like the red Gyarados shown on the left. \nFor people with this type of color blindness, its red scales appear brownish-gray, making it look much closer to the common blue version.",
     "image": "images/Red-Brown.png",
     "answers": [
       "Tritanopia",
@@ -130,7 +130,7 @@
   },
   {
     "category": "Art",
-    "question": "This painting is described by the following alternative text: Portrait of a woman with a subtle smile, wearing a Renaissance-style dress and sitting with her hands folded against a misty landscape background.",
+    "question": "This painting is described by the following alternative text: *Portrait of a woman with a subtle smile, wearing a Renaissance-style dress and sitting with her hands folded against a misty landscape background.*",
     "image": null,
     "answers": [
       "Whistler's Mother",
@@ -187,7 +187,7 @@
   },
   {
     "category": "Bb Products",
-    "question": "When accessibility is everyone’s responsibility, learning together matters. This group at Blackboard exists so anyone can get involved, grow their knowledge, and help move accessibility forward.",
+    "question": "*When accessibility is everyone’s responsibility, learning together matters.*\nThis group at Blackboard exists so anyone can get involved, grow their knowledge, and help move accessibility forward.",
     "image": null,
     "answers": [
       "Accessibility Workstream",
