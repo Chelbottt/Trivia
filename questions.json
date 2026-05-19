@@ -1,18 +1,5 @@
 [
-  {
-    "category": "Test Questions",
-    "question": "What is the name of this famous trio?",
-    "image": "images/trio.jpg",
-    "answers": [
-      "Amy, Chelsea, and Katie",
-      "The Three Stooges",
-      "Destiny's Child",
-      "The Powerpuff Girls"
-    ],
-    "correct": 0,
-    "points": 100,
-    "time": 30
-  },
+
   {
     "category": "Musicians",
     "question": "Blind since shortly after birth, this singer and pianist became one of Motown's biggest stars, recording classics like \"Superstition\" and \"Sir Duke\".",
@@ -66,6 +53,20 @@
       "Deuteranomaly"
     ],
     "correct": 2,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Pokémon",
+    "question": "Which Pokémon is described by this alt text: A yellow, rodent-like Pokémon with long ears tipped in black and red circular cheek pouches.",
+    "image": null,
+    "answers": [
+      "Charizard",
+      "Gengar",
+      "Jifflypuffa",
+      "Pikachu"
+    ],
+    "correct": 3,
     "points": 100,
     "time": 30
   },
