@@ -112,6 +112,20 @@
     "points": 100,
     "time": 30
   },
+   {
+    "category": "Art",
+    "question": "This spoken narration of key visual elements, often provided via headsets or apps, allows blind or low-vision visitors to experience visual art in a gallery or museum setting.",
+    "image": null,
+    "answers": [
+      "Captions",
+      "Audio Descriptions",
+      "Transcripts",
+      "Alternative Text"
+    ],
+    "correct": 1,
+    "points": 100,
+    "time": 30
+  },
   {
     "category": "Art",
     "question": "This famous Mexican painter used art to explore their experience with chronic pain and disability following a streetcar accident.",
