@@ -1,20 +1,6 @@
 [
   {
     "category": "Test Questions",
-    "question": "What year is it?",
-    "image": null,
-    "answers": [
-      "2022",
-      "2901",
-      "1821",
-      "2026"
-    ],
-    "correct": 3,
-    "points": 100,
-    "time": 30
-  },
-  {
-    "category": "Test Questions",
     "question": "What is the name of this famous trio?",
     "image": "images/trio.jpg",
     "answers": [
