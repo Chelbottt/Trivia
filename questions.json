@@ -12,6 +12,20 @@
     "points": 100,
     "time": 30
   },
+    {
+    "category": "Test Questions",
+    "question": "What is the name of this famous trio?",
+    "image": "images/trio.jpg",
+    "answers": [
+      "Amy, Chelsea, and Katie",
+      "The Three Stooges",
+      "Destiny's Child",
+      "The Three Musketeers"
+    ],
+    "correct": 0,
+    "points": 100,
+    "time": 30
+  },
   {
     "category": "Test Questions",
     "question": "Without looking at your hands, how many fingers do you have? (No cheating. Don't look at your hands.)",
