@@ -54,7 +54,7 @@
     "correct": 2,
     "points": 100,
     "time": 30,
-    "image_alt": "Side-by-side comparison of a standard blue Gyarados on the right and a shiny red Gyarados on the left, illustrating how the rare color variant appears to players with normal color vision"
+    "image_alt": "Side-by-side comparison of a shiny red Gyarados on the left, and the appearance of a standard blue Gyarados on the right for those with the condition in question, illustrating how the rare color variant appears to players with normal color vision"
   },
   {
     "category": "Pokémon",
@@ -83,7 +83,7 @@
     "correct": 1,
     "points": 100,
     "time": 30,
-    "image_alt": "Pokémon game settings menu with the Text Speed option highlighted, showing slow, mid, and fast settings"
+    "image_alt": "Pokémon game settings menu with the option in question highlighted, showing slow, mid, and fast settings"
   },
   {
     "category": "Art",
@@ -98,7 +98,7 @@
     "correct": 2,
     "points": 100,
     "time": 30,
-    "image_alt": "Claude Monet's Water Lilies painting, depicting a reflective pond surface covered in floating lily pads and pink and white water lily blooms rendered in soft, blurred brushstrokes"
+    "image_alt": "Oil painting depicting a reflective pond surface covered in floating lily pads and pink and white water lily blooms rendered in soft, blurred brushstrokes. A wooden foot bridge spans the pond."
   },
   {
     "category": "Art",
@@ -253,7 +253,7 @@
     "correct": 0,
     "points": 100,
     "time": 30,
-    "image_alt": "A row of mobile accessibility icons related to hearing, including symbols representing hearing aids, sound amplification, and audio accessibility features"
+    "image_alt": "A row of mobile accessibility icons related to hearing, including the profile view of an ear for Apple products, and an ear with a dot inside and an curved line around the outside of the ear for Android."
   },
   {
     "category": "Mobile",
@@ -268,7 +268,7 @@
     "correct": 0,
     "points": 100,
     "time": 30,
-    "image_alt": "Mobile accessibility icons representing screen reader and audio features, including symbols for VoiceOver, TalkBack, and spoken audio output"
+    "image_alt": "Mobile accessibility icons including a figure of a person with an offset speaker symbol on top for Apple, and a pentagon with a word bubble inside for Android."
   },
   {
     "category": "Mobile",
@@ -283,6 +283,6 @@
     "correct": 3,
     "points": 100,
     "time": 30,
-    "image_alt": "A mobile accessibility icon depicting an eye, representing the eye tracking feature that allows users to control their device using gaze direction"
+    "image_alt": "Mobile accessibility icons featuring an eye leading multiple stacked horizontal lines of different lengths for apple, and an eye centered between four square corners for Android."
   }
 ]
