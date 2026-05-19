@@ -1,4 +1,31 @@
-[ 
+[ {
+    "category": "Test Questions",
+    "question": "What year is it?",
+    "image": null,
+    "answers": [
+      "2022",
+      "2026",
+      "1821",
+      "2901"
+    ],
+    "correct": 1,
+    "points": 100,
+    "time": 30
+  },
+  {
+    "category": "Test Questions",
+    "question": "Without looking at your hands, how many fingers do you have? (No cheating. Don't look at your hands.)",
+    "image": null,
+    "answers": [
+      "12",
+      "10",
+      "4",
+      "32"
+    ],
+    "correct": 1,
+    "points": 100,
+    "time": 30
+  },
   {
     "category": "Disabled Musicians",
     "question": "Blind since shortly after birth, this singer and pianist became one of Motown's biggest stars, recording classics like \"Superstition\" and \"Sir Duke\".",
