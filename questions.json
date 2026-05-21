@@ -43,7 +43,7 @@
   },
   {
     "category": "Pokémon",
-    "question": "In Pokémon, Shiny Pokémon are rare color variants, like the red Gyarados shown on the left. For people with this type of color blindness, its red scales appear brownish-gray, making it look much closer to the common blue version.",
+    "question": "In Pokémon, Shiny Pokémon are rare color variants, like the red Gyarados shown on the left. For people with this type of color blindness, its red scales appear brownish-gray as shown on the right, causing it to be perceived much closer to the common blue version.",
     "image": "images/Red-Brown.png",
     "answers": [
       "Tritanopia",
